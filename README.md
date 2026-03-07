@@ -53,8 +53,8 @@ This project leverages a modern tech stack to ensure the best performance and de
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/mahrandev/Exclusive-ecommerce.git
-    cd Exclusive-ecommerce
+   git clone https://github.com/Merozsherif/E-commerce-Reactjs-.git
+cd E-commerce-Reactjs-
     ```
 
 2.  **Install dependencies:**
