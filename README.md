@@ -1,9 +1,8 @@
 # E-commerce- ReactJs
-## Live Demo
 
-You can view the live project here:
+## 🌐 Live Demo
 
-https://vercel.com/marwansherifs-projects/e-commerce-reactjs
+https://e-commerce-reactjs-ten.vercel.app/
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-19-blue?logo=react" alt="React" />
